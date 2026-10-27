@@ -1,3 +1,5 @@
 .venv/
 preprocessed_images/
 ODIR-5K/
+plan.md
+notebooks/test_extraction.ipynb
